@@ -4,10 +4,9 @@ Data standards are a set of rules and guidelines that define how data should be 
 ## Library of Integrated Network-Based Cellular Signatures (LINCS) Metadata Standards:
 URL: https://lincsproject.org/
 Description: Cell response to various genetic and environmental stressors
-
 <br>
-[Antibody reagents](https://lincsproject.org/LINCS/files/Antibody_Metadata_2017.pdf)<br>
-[Cell lines](https://lincsproject.org/LINCS/files/Cell_Line_Metadata_2017.pdf)<br>
+[Antibody reagents](https://lincsproject.org/LINCS/files/Antibody_Metadata_2017.pdf) <br>
+[Cell lines](https://lincsproject.org/LINCS/files/Cell_Line_Metadata_2017.pdf) <br>
 [Differentiated cells](https://lincsproject.org/LINCS/files/Differentiated_Cell_Metadata_2017.pdf)<br>
 [Embryonic stem cells](https://lincsproject.org/LINCS/files/Embryonic_Stem_Cell_Metadata_2017.pdf)<br>
 [iPSCs](https://lincsproject.org/LINCS/files/iPSC_Metadata_2017.pdf)<br>
