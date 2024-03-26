@@ -10,5 +10,5 @@ Application process for joining FL CARES & PAC3R affiliate membership
 An investigator who is interested in applying for membership to FL CARES should fill out the application form and submit.  The application will be reviewed, once accepted the participation to FL CARES, the affiliate member at any time can be ask to leave FL CARES, but is expected to honor the confidentiality of any information obtained during the membership collaboration.
 
 ## Affiliate Membership Application Form
-(Affiliate Membership Application Form)[https://forms.gle/epsgBKNfbEJt78XV90]
+[Application Form](https://forms.gle/epsgBKNfbEJt78XV90)
 
