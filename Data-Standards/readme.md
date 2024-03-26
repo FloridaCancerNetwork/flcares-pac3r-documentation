@@ -1,10 +1,10 @@
 # Data Standards
 Data standards are a set of rules and guidelines that define how data should be organized, structured, formatted, and exchanged. They act as a common language, ensuring that data is consistent, compatible, and interpretable across different systems, organizations, and industries. 
 
-## Library of Integrated Network-Based Cellular Signatures (LINCS) Metadata Standards:
+## Library of Integrated Network-Based Cellular Signatures (LINCS)
 - URL: https://lincsproject.org/
 - Description: Cell response to various genetic and environmental stressors
-<br>
+### Metadata Standards:
 [Antibody reagents](https://lincsproject.org/LINCS/files/Antibody_Metadata_2017.pdf) <br>
 [Cell lines](https://lincsproject.org/LINCS/files/Cell_Line_Metadata_2017.pdf) <br>
 [Differentiated cells](https://lincsproject.org/LINCS/files/Differentiated_Cell_Metadata_2017.pdf)<br>
