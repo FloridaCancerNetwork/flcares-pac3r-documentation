@@ -4,8 +4,12 @@ Terms of Use
 ## 1. General Principles
 The Florida Cancer Research (FL CARES) Network promotes open science and collaborative cancer research by providing community access to extensive data resources.
 FL CARES facilitates the sharing of scientific data, with usage restrictions limited to those imposed by the data owner, unless otherwise specified in these Terms of Use.
-Users are expected to provide appropriate attribution (e.g., in publications, services, or products) for the use of FL CARES Data Resources and Tools, adhering to established scientific practices. Specific attribution requirements will be detailed on the relevant resource webpage. Provided below is a general citation for the Florida CARES website:
+Users are expected to provide appropriate attribution (e.g., in publications, services, or products) for the use of FL CARES Data Resources and Tools, adhering to established scientific practices. Specific attribution requirements will be detailed on the relevant resource webpage. 
+
+Provided below is a general citation for the Florida CARES website:
+
 Platform for Accelerating Collaborative Computational Cancer Research (PAC3R) Website. The Florida Cancer Research (Florida CARES) Network. https://pac3r.floridacancernetwork.org/ Accessed: Month DD, YYYY.
+
 ## 2. Website and Service Usage
 The Platform for Accelerating Collaborative Computational Cancer Research ("Website") and its associated data and services ("Services") are provided by the University of Miami ("University") for non-commercial, academic research purposes.
 By accessing and using the Website, you ("User") agree to these Terms of Use. These Terms may be updated periodically, and continued use of the Website and/or Services constitutes acceptance of any revisions.
